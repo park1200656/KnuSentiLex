@@ -63,7 +63,7 @@ KNU 한국어 감성사전
 - 단어 입력을 통해 해당 단어의 행태소 및 극성 정도값 출력    
 
 
-<> 참고문헌
+<> 참고문헌    
 [1] 표준국어대사전 뜻풀이, https://github.com/mrchypark/stdkor    
 [2] 긍부정 축약어,  https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%8B%A0%EC%A1%B0%EC%96%B4_%EB%AA%A9%EB%A1%9D    
 [3] 긍부정 이모티콘,  https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98    
