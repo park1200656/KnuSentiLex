@@ -1380,6 +1380,11 @@
 	"polarity": "-1"
 },
 {
+	"word": "갈등",
+	"word_root": "갈등",
+	"polarity": "-1"
+},
+{
 	"word": "갈라서다",
 	"word_root": "가르",
 	"polarity": "-1"
@@ -12265,6 +12270,11 @@
 	"polarity": "-2"
 },
 {
+	"word": "내팽개치다",
+	"word_root": "내팽개",
+	"polarity": "-2"
+},
+{
 	"word": "내키지 아니하거나",
 	"word_root": "내키 아니하",
 	"polarity": "-1"
@@ -16468,6 +16478,11 @@
 	"word": "드센",
 	"word_root": "드세",
 	"polarity": "-1"
+},
+{
+	"word": "득점",
+	"word_root": "득점",
+	"polarity": "2"
 },
 {
 	"word": "득템",
@@ -30715,6 +30730,11 @@
 	"polarity": "-2"
 },
 {
+	"word": "불안증",
+	"word_root": "불안증",
+	"polarity": "-2"
+},
+{
 	"word": "불안스럽다",
 	"word_root": "불안",
 	"polarity": "-2"
@@ -34018,6 +34038,16 @@
 	"word": "상심하다",
 	"word_root": "상심",
 	"polarity": "-2"
+},
+{
+	"word": "상위",
+	"word_root": "상위",
+	"polarity": "2"
+},
+{
+	"word": "상위권",
+	"word_root": "상위권",
+	"polarity": "2"
 },
 {
 	"word": "상처",
@@ -38472,12 +38502,12 @@
 {
 	"word": "승리",
 	"word_root": "승리",
-	"polarity": "-2"
+	"polarity": "2"
 },
 {
 	"word": "승리하다",
 	"word_root": "승리",
-	"polarity": "-2"
+	"polarity": "2"
 },
 {
 	"word": "시각적 아름다움을",
@@ -39738,6 +39768,11 @@
 	"word": "실용적인",
 	"word_root": "실용적",
 	"polarity": "2"
+},
+{
+	"word": "실점",
+	"word_root": "실점",
+	"polarity": "-2"
 },
 {
 	"word": "실제로 이루다",
@@ -43066,6 +43101,11 @@
 },
 {
 	"word": "안정",
+	"word_root": "안정",
+	"polarity": "1"
+},
+{
+	"word": "안정감",
 	"word_root": "안정",
 	"polarity": "1"
 },
@@ -48135,6 +48175,11 @@
 	"polarity": "-2"
 },
 {
+	"word": "오류",
+	"word_root": "오류",
+	"polarity": "-2"
+},
+{
 	"word": "오르지 못하던",
 	"word_root": "오르 못하",
 	"polarity": "-1"
@@ -51037,7 +51082,7 @@
 {
 	"word": "유명하다",
 	"word_root": "유명",
-	"polarity": "-2"
+	"polarity": "1"
 },
 {
 	"word": "유명한",
@@ -52048,6 +52093,11 @@
 	"word": "의합하다",
 	"word_root": "의합하",
 	"polarity": "2"
+},
+{
+	"word": "의혹",
+	"word_root": "의혹",
+	"polarity": "-1"
 },
 {
 	"word": "의회",
@@ -56282,7 +56332,7 @@
 {
 	"word": "적극적이다",
 	"word_root": "적극적",
-	"polarity": "-1"
+	"polarity": "1"
 },
 {
 	"word": "적극적인",
@@ -70877,6 +70927,11 @@
 {
 	"word": "획기적인",
 	"word_root": "획기적",
+	"polarity": "-2"
+},
+{
+	"word": "횡령",
+	"word_root": "횡령",
 	"polarity": "-2"
 },
 {
